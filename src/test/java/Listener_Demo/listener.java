@@ -12,7 +12,6 @@ import org.testng.annotations.Test;
 public class listener {				
 WebDriver driver= new FirefoxDriver();					
 
-//Test to pass as to verify listeners.		
 @Test		
 public void Login()				
 {		
